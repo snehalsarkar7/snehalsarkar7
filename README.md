@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=220&section=header&text=SNEHAL%20SARKAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Assembling%20code%20%7C%20Leading%20teams%20%7C%20Building%20the%20future&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ED1D24&height=220&section=header&text=SNEHAL%20SARKAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Assembling%20code%20%7C%20Leading%20teams%20%7C%20Building%20the%20future&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=ED1D24&center=true&vCenter=true&width=700&lines=Avengers...+Assemble!+%F0%9F%A6%B8;Hi,+I'm+Snehal+Sarkar+%E2%80%94+Developer+%7C+Leader+%7C+Creator;%22I+can+do+this+all+day.%22+(Debugging)+%F0%9F%90%9B;Building+with+Java,+Python,+Flutter+%26+React+%E2%9A%A1" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="./assets/lightning-divider.svg" width="100%" />
+<img src="./repo%20assets/lightning-divider.svg" width="100%" />
 
 ## 🛡️ S.H.I.E.L.D. Dossier: Classified Intel
 *(Click each file to unlock the intel!)*
@@ -69,7 +69,7 @@
   Studying in <b>Jaipur, Rajasthan</b>, originally from <b>Kolkata, West Bengal</b>. Fluent in <b>English, Bengali & Hindi</b>.
 </details>
 
-<img src="./assets/lightning-divider.svg" width="100%" />
+<img src="./repo%20assets/lightning-divider.svg" width="100%" />
 
 ## 🦸 Hero Zones
 
@@ -78,12 +78,12 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="./assets/web.svg" width="140" /><br/>
+<img src="./repo%20assets/web.svg" width="140" /><br/>
 <b>🕸️ SPIDER ZONE</b><br/>
 <sub>Flutter · React<br/>Swinging across platforms</sub>
 </td>
 <td align="center" width="25%">
-<img src="./assets/hammer.svg" width="140" /><br/>
+<img src="./repo%20assets/hammer.svg" width="140" /><br/>
 <b>🔨 THUNDER ZONE</b><br/>
 <sub>Solidity · Ethereum<br/>Trust, forged in lightning</sub>
 </td>
@@ -102,7 +102,7 @@
 
 </div>
 
-<img src="./assets/hulk-pulse.svg" width="100%" />
+<img src="./repo%20assets/hulk-pulse.svg" width="100%" />
 
 ## 💎 Infinity Stones: Tech Stack
 
@@ -119,7 +119,7 @@
 
 </div>
 
-<img src="./assets/lightning-divider.svg" width="100%" />
+<img src="./repo%20assets/lightning-divider.svg" width="100%" />
 
 ## 📈 Battle Stats
 
@@ -136,7 +136,7 @@
 
 </div>
 
-<img src="./assets/hulk-pulse.svg" width="100%" />
+<img src="./repo%20assets/hulk-pulse.svg" width="100%" />
 
 <div align="center">
 
@@ -146,6 +146,6 @@
 
 <i>Seeking to apply my diverse technical toolkit and passion for continuous improvement to drive efficiency and innovation in a competitive professional environment.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ED1D24&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
